@@ -1,16 +1,16 @@
 import { useState } from "react";
 import Hero from "./Hero";
-import Details from "./components/kelixirr/Details";
+import Details from "./components/volotree/Details";
 import Toast from "./components/VictorEZCodes/Toast";
 import ProgressBar from "./components/VictorEZCodes/ProgressBar";
 import ThemeSwitcher from "./components/VictorEZCodes/ThemeSwitcher";
 import SearchFilter from "./components/VictorEZCodes/SearchFilter";
 import FormValidator from "./components/VictorEZCodes/FormValidator";
-import AccordionItems from "./components/kelixirr/AccordionItems";
+import AccordionItems from "./components/volotree/AccordionItems";
 import FlashCards from "./components/mektefaie/FlashCards";
-import SliderCards from "./components/kelixirr/SliderCards";
+import SliderCards from "./components/volotree/SliderCards";
 import Modal from "./components/sushantpokhrel/Modal";
-import Header from "./components/kelixirr/Header";
+import Header from "./components/volotree/Header";
 import Login from "./components/rrusyaidii/Login";
 
 function App() {

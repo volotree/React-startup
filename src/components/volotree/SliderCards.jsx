@@ -2,7 +2,7 @@ import {
   HiOutlineArrowCircleLeft,
   HiOutlineArrowCircleRight,
 } from "react-icons/hi";
-import styles from "./../kelixirr/SliderCards.module.css";
+import styles from "./../volotree/SliderCards.module.css";
 import { GoDot } from "react-icons/go";
 import { useCallback, useEffect, useState } from "react";
 import { MdAlternateEmail, MdOutlineLocationCity } from "react-icons/md";
@@ -158,7 +158,7 @@ export default function SliderCards() {
           ))}
         </div>
       </div>
-      <Author name="Amritesh Kumar" githubLink="https://github.com/kelixirr" />
+      <Author name="Amritesh Kumar" githubLink="https://github.com/volotree" />
     </>
   );
 }

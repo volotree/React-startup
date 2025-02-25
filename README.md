@@ -1,6 +1,6 @@
-# Contribute to the ReactDevs - A Playground for react learners
+# Contribute to the ReactStartup - A Playground for react learners
 
-Welcome to the **ReactDevs** project! This repository allows beginners to contribute one or more React components of their choice. This guide will walk you through every step of the process to ensure you can easily contribute to the project. Follow these steps carefully to add your own component, including a small credit section that links to your name and GitHub profile.
+Welcome to the **ReactStartup** project! This repository allows beginners to contribute one or more React components of their choice. This guide will walk you through every step of the process to ensure you can easily contribute to the project. Follow these steps carefully to add your own component, including a small credit section that links to your name and GitHub profile.
 
 ### Why Be Part Of This Project?
 - **Git**: Learn version control and collaboration using Git.
@@ -39,7 +39,7 @@ Before you begin contributing to the project, you'll need a few things installed
 ## **2. Fork the Repository**
 
 ### **Step 1: Fork the Repository**
-- Go to the [ReactDevs repository](https://github.com/kelixirr/ReactDevs) on GitHub.
+- Go to the [ReactStartup repository](https://github.com/volotree/React-startup) on GitHub.
 - In the top-right corner of the page, click the **Fork** button. This creates a personal copy of the repository under your GitHub account.
 
 ### **Step 2: Clone the Forked Repository**
@@ -174,7 +174,7 @@ For example:
 ```javascript
 import React from 'react';
 import Button from './components/johndoe/Button'; // Adjust path to your component
-import Details from './components/kelixirr/Details';
+import Details from './components/volotree/Details';
 import Hero from './Hero' 
 
 function App() {

@@ -12,7 +12,7 @@ export default function Hero() {
           </div>
           <div className={styles.navLinks}>
             <a
-              href="https://github.com/kelixirr/ReactDevs/discussions"
+              href="https://github.com/volotree/React-startup/discussions"
               target="_blank"
               rel="noopener noreferrer"
               title="Help"
@@ -20,7 +20,7 @@ export default function Hero() {
               <FaQuestionCircle size={24} color="currentColor" />
             </a>
             <a
-              href="https://github.com/kelixirr/ReactDevs"
+              href="https://github.com/volotree/React-startup"
               target="_blank"
               rel="noopener noreferrer"
               title="Star the repository"
@@ -31,7 +31,7 @@ export default function Hero() {
         </nav>
       </header>
       <section className={styles.hero}>
-        <h1>🌟 Welcome to the ReactDevs Project! 🌟</h1>
+        <h1>🌟 Welcome to the StartUp Project! 🌟</h1>
         <p>
           A community-driven React project where beginners can contribute their
           own components and showcase their skills! This project will help you
@@ -41,7 +41,7 @@ export default function Hero() {
         </p>
         <div className={styles["hero-buttons"]}>
           <a
-            href="https://github.com/kelixirr/ReactDevs"
+            href="https://github.com/volotree/React-startup"
             target="_blank"
             rel="noopener noreferrer"
             className={`${styles["hero-button"]} ${styles["contribute-button"]}`}

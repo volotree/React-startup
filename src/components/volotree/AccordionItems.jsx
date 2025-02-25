@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { IoMdArrowDropdownCircle, IoMdArrowDropupCircle } from "react-icons/io";
-import styles from "./../kelixirr/AccordionItems.module.css";
+import styles from "./../volotree/AccordionItems.module.css";
 import { WiStars } from "react-icons/wi";
 import Author from "../../Author";
 
@@ -99,7 +99,7 @@ export default function AccordionItems() {
           </ul>
         </div>
       </div>
-      <Author name="Amritesh Kumar" githubLink="https://github.com/kelixirr" />
+      <Author name="Volodymyr" githubLink="https://github.com/volotree" />
     </>
   );
 }

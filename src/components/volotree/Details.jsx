@@ -1,5 +1,5 @@
 import { useState } from "react";
-import styles from "../kelixirr/Details.module.css";
+import styles from "../volotree/Details.module.css";
 import { FaCartShopping } from "react-icons/fa6";
 import Author from "../../Author";
 
@@ -58,7 +58,7 @@ export default function Details() {
             +
           </button>
         </div>
-        <Author name="Your Name" githubLink="https://github.com/kelixirr" />
+        <Author name="Your Name" githubLink="https://github.com/volotree" />
         <p>
           Once you have created your component, add the Author component as
           shown above to get the credit. Here is the example code:
@@ -120,7 +120,7 @@ export default function Cart() {
         <p style={{ textAlign: "center", marginTop: "2.4rem" }}>
           Good Luck! We can&apos; wait to see you being part of this project!{" "}
           <a
-            href="https://github.com/kelixirr/ReactDevs"
+            href="https://github.com/volotree/React-startup"
             target="_blank"
             rel="noopener noreferrer"
             style={{

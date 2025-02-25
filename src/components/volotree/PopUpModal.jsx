@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import styles from "../kelixirr/PopUpModal.module.css";
+import styles from "../volotree/PopUpModal.module.css";
 
 export default function PopUpModal() {
   const [modalState, setModalState] = useState(false);

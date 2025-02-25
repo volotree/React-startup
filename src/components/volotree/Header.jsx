@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import styles from "../kelixirr/Header.module.css";
+import styles from "../volotree/Header.module.css";
 import Author from "../../Author";
 import PopUpModal from "./PopUpModal";
 
@@ -192,7 +192,7 @@ export default function Header() {
           </div>
         )}
       </div>
-      <Author name="Amritesh Kumar" githubLink="https://github.com/kelixirr" />
+      <Author name="Amritesh Kumar" githubLink="https://github.com/volotree" />
     </div>
   );
 }
